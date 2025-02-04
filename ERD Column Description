@@ -1,0 +1,24 @@
+Date: The specific day, month, or year when the marketing data was recorded. It helps track performance trends over time.
+Source: The platform or channel where the ad was run, such as Google Ads, Facebook, Instagram, or email marketing.
+Campaign: The name or title of the marketing campaign designed to promote a specific product, service, or event.
+Campaign ID: A unique identifier assigned to each campaign for easy tracking and analysis, often system-generated.
+Impressions: The total number of times an ad was displayed to users, regardless of whether it was clicked.
+Clicks: The number of times users clicked on the ad, showing initial engagement levels.
+CTR (%) (Click-Through Rate): The percentage of impressions that resulted in clicks. Calculated as: CTR (%)= (Clicks / Impressions) × 100
+Conversions: The number of desired actions taken by users after clicking an ad, such as purchases, sign-ups, or downloads.
+Revenue ($): The total income generated from conversions attributed to the marketing campaign.
+ROAS (Return on Ad Spend): A performance metric showing revenue earned for every dollar spent on ads. Calculated as: ROAS = Revenue / Ad Spend
+CAC ($) (Customer Acquisition Cost): The cost to acquire one customer, factoring in total marketing spend divided by the number of new customers.
+Customer Type: Indicates whether the customer is "New" (first-time buyer) or "Returning" (repeat customer).
+Age Group: The demographic segmentation of the audience based on age ranges (e.g., 18–24, 25–34, 35–44).
+Device Type: The type of device used to engage with the ad, such as Mobile, Desktop, or Tablet.
+Region: The geographic area where the campaign was targeted or where users engaged with the ads.
+Conversion Rate: The percentage of clicks that led to conversions. Calculated as: Conversion Rate = (Conversions / Clicks) * 100
+CPC (Cost Per Click): The average cost paid for each click on an ad. Calculated as: CPC = Ad Spend / Clicks
+​Revenue Per Conversion: The average revenue generated from each conversion. Calculated as: Revenue Per Conversion = Revenue / Conversions
+​Impressions Per Conversion: The average number of ad impressions needed to generate one conversion. Calculated as: Impressions Per Conversion = Impressions / Conversions
+Revenue Per Click: The average revenue earned per ad click. Calculated as: Revenue Per Click = Revenue / Clicks
+​Revenue Per Impression: The average revenue earned per ad impression. Calculated as: Revenue Per Impression = Revenue / Impressions
+Ad Spend: The total amount of money spent on running the marketing campaign.
+Audience Campaign ID: Unique identifier assigned to each campaign that tracks what age group the specific ad targeted.
+Campaign Rate ID: Unique identifier assigned to each campaign that tracks what performance rates each individual campaign generated.
