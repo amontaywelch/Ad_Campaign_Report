@@ -1,7 +1,7 @@
 # 2024 Marketing Ad Campaign Performance
 ![Ad_Campaign_Report](Dashboard.png)
 # Project Background
-As a data analyst at an up-and-coming start-up, I have been tasked with visualizing nearly 2,000 ad campaigns to evaluate their effectiveness and efficiency month over month. **This report analyzes synthetic campaigns launched in 2024, providing insights into regional performance, ad spending trends, and key marketing metrics**. The goal is to uncover data-driven patterns that highlight growth opportunities, optimize resource allocation, and support strategic decision-making across different channels and audiences.
+As the sole data analyst at a fictional early-stage DTC startup, I designed and executed a full-funnel marketing performance dashboard using synthetic ad data (Python-generated). The project mimics real-world scenarios, focusing on ROAS, audience engagement, and budget allocation optimization.
 
 # Executive Summary
 - Total revenue: **$76.5M**, with **$69.7M** in profit (91% profit margin).
