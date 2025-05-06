@@ -4,7 +4,12 @@
 As a data analyst at an up-and-coming start-up, I have been tasked with visualizing nearly 2,000 ad campaigns to evaluate their effectiveness and efficiency month over month. **This report analyzes synthetic campaigns launched in 2024, providing insights into regional performance, ad spending trends, and key marketing metrics**. The goal is to uncover data-driven patterns that highlight growth opportunities, optimize resource allocation, and support strategic decision-making across different channels and audiences.
 
 # Executive Summary
-This report provides a screenshot of the start-up's executive summary, providing an overview of marketing performance, highlighting key metrics that focus on campaign performance, audience engagement, and revenue growth. The analysis spans various channels, campaigns, and regions to identify trends, strengths, and areas for improvement. From 2000 separate campaigns, the average **click-through-rate(CTR)** was 11.4%, which happens to be significantly higher than the average of 1-5%. This seemingly unheard of a number suggests highly engaging content, or outliers and compromised data integrity that requires further investigation.
+- Total revenue: **$76.5M**, with **$69.7M** in profit (91% profit margin).
+- Average CTR: **11.4%**, which is **well above industry benchmarks (1–5%)**, suggesting either exceptional engagement or possible data anomalies requiring further validation.
+- The **Seasonal Promo** campaign drove **21% of total revenue alone**, highlighting its effectiveness.
+- A **13:1 ROAS** indicates highly optimized spending—$13 in revenue for every $1 invested.
+- **Mobile users** had higher CTRs but lower conversion rates, pointing to UX issues in the mobile funnel.
+- The **25–34 age group** and regions like **Australia and Europe** outperformed other segments in both engagement and conversion.
 
 # Insights Deep-Dive
  - Overall Summary
